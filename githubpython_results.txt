@@ -1,0 +1,209 @@
+
+total number of commits in commons-math is.....6345
+-----------------------------------------------------------------------------
+39628
+Average number of commits per file in commons-math is 6.18125097489 rounding off to6.0 commits per contributor
+------------------------------------------------------------------------------------------
+Number of files added in commons-math...16
+Number of files deleted in commons-math...94
+Number of files modified in commons-math...850
+-----------------------------------------------------------------------------
+total number of commits in PDFBox is.....6745
+-----------------------------------------------------------------------------
+25965
+Average number of commits per file in PDFBox is 4.60862619808 rounding off to5.0 commits per contributor
+------------------------------------------------------------------------------------------
+Number of files added in PDFBox...73
+Number of files deleted in PDFBox...3
+Number of files modified in PDFBox...1448
+-----------------------------------------------------------------------------
+Number of authors in project commons-math is.....53
+-----------------------------------------------------------------------------
+6345
+Average number of commits per author in commons-math is 119.716981132 rounding off to120.0 commits per contributor
+------------------------------------------------------------------------------------------
+Authors inacitve from past 6 or more months
+-----------------------------------------------------------------------------
+Greg Sterijevski
+Olivier Lamy
+Sebb
+Niall Pemberton
+Brett Porter
+Eric Barnhill
+Kexin Xie
+Bruno P. Kinoshita
+Luc Maisonobe
+Daniil Finkel
+Matthew Jason Benson
+Sebastian Bazley
+Phil Steitz
+Robert Burrell Donkin
+Gilles Sadowski
+Brent Worden
+tn
+No Author
+Dimitri Pourbaix
+Qualtagh
+Dave Brosius
+Hang Park
+Stephen Colebourne
+Gary Gregory
+Milos Gligoric
+David Brosius
+Daniel Shahaf
+Tim O'Brien
+Thomas Neidhart
+Gary D. Gregory
+Dion Gillard
+Sebastien Brisard
+ggregory
+Emmanuel Bourg
+Otmar Ertl
+Mark R. Diggory
+Ole
+Henri Yandell
+Mikkel Meyer Andersen
+Evan Ward
+Christoph Dibak
+Rob Tompkins
+Dirk Verbeeck
+Benedikt Ritter
+William Barker
+Joerg Pietschmann
+Rahul Akolkar
+Artem Barger
+Eric Prescott-Gagnon
+Hank Grabowski
+Percentage of changes done by each contributor in project...commons-math
+                  Authors  Percentage_contri
+0            Artem Barger           0.015760
+1         Benedikt Ritter           0.031521
+2            Brent Worden           1.197794
+3            Brett Porter           0.015760
+4      Bruno P. Kinoshita           0.126084
+5         Christoph Dibak           0.015760
+6           Daniel Shahaf           0.031521
+7           Daniil Finkel           0.015760
+8            Dave Brosius           0.063042
+9           David Brosius           0.047281
+10       Dimitri Pourbaix           0.141844
+11           Dion Gillard           0.031521
+12          Dirk Verbeeck           0.252167
+13         Emmanuel Bourg           0.031521
+14          Eric Barnhill           0.063042
+15   Eric Prescott-Gagnon           0.015760
+16              Evan Ward           0.078802
+17        Gary D. Gregory           0.078802
+18           Gary Gregory           0.047281
+19                 Gilles           6.509062
+20        Gilles Sadowski          14.215918
+21       Greg Sterijevski           0.173365
+22              Hang Park           0.015760
+23         Hank Grabowski           0.078802
+24          Henri Yandell           0.504334
+25      Joerg Pietschmann           0.157604
+26              Kexin Xie           0.015760
+27          Luc Maisonobe          29.519307
+28        Mark R. Diggory           2.868400
+29   Matthew Jason Benson           0.015760
+30  Mikkel Meyer Andersen           0.441292
+31         Milos Gligoric           0.015760
+32        Niall Pemberton           0.535855
+33              No Author           0.015760
+34                    Ole           0.047281
+35           Olivier Lamy           0.078802
+36             Otmar Ertl           0.299448
+37            Phil Steitz          18.029945
+38               Qualtagh           0.031521
+39          Rahul Akolkar           0.094563
+40            Ray DeCampo           0.646178
+41           Rob Tompkins           0.157604
+42  Robert Burrell Donkin           0.141844
+43       Sebastian Bazley           6.225374
+44      Sebastien Brisard           6.036249
+45                   Sebb           0.425532
+46     Stephen Colebourne           0.015760
+47        Thomas Neidhart           7.864460
+48            Tim O'Brien           1.134752
+49         William Barker           0.929866
+50             darkma773r           0.126084
+51               ggregory           0.015760
+52                     tn           0.315209
+-----------------------------------------------------------------------------
+Number of authors in project PDFBox is.....23
+-----------------------------------------------------------------------------
+6745
+Average number of commits per author in PDFBox is 293.260869565 rounding off to293.0 commits per contributor
+------------------------------------------------------------------------------------------
+Authors inacitve from past 6 or more months
+-----------------------------------------------------------------------------
+Guillaume Bailleul
+asf-sync-process
+Daniel Wilson
+Tim Allison
+Jukka Zitting
+John Hewson
+Villu Ruusmann
+jahewson
+Jeremias Maerki
+Eric Leleu
+Andreas Lehmkuhler
+Timo Boehme
+msahyoun
+Adam Nichols
+Ben Litchfield
+Philipp Koch
+Thomas Chojecki
+Brian Carrier
+Johannes Koch
+tilman
+Percentage of changes done by each contributor in project...PDFBox
+               Authors  Percentage_contri
+0         Adam Nichols           0.724980
+1   Andreas Lehmkuhler          18.565800
+2   Andreas Lehmkühler           3.640662
+3       Ben Litchfield           0.015760
+4        Brian Carrier           0.535855
+5        Daniel Wilson           0.772262
+6           Eric Leleu           1.434200
+7   Guillaume Bailleul           1.245075
+8      Jeremias Maerki           0.567376
+9        Johannes Koch           0.189125
+10         John Hewson          11.883373
+11       Jukka Zitting           3.719464
+12      Maruan Sahyoun           7.297084
+13        Philipp Koch           0.031521
+14     Thomas Chojecki           0.220646
+15     Tilman Hausherr          54.121355
+16         Tim Allison           0.047281
+17         Timo Boehme           0.740741
+18      Villu Ruusmann           0.031521
+19    asf-sync-process           0.126084
+20            jahewson           0.015760
+21            msahyoun           0.047281
+22              tilman           0.330969
+-----------------------------------------------------------------------------
+Frequent itemsets, 4 set of two files, 3 set of 3 files, 2 set of 4 files and 1 set of 5 files that change together at least 3 times.
+['app/pom.xml', 'fontbox/pom.xml']
+-------------------------------------------------------------------------------
+['app/pom.xml', 'parent/pom.xml']
+-------------------------------------------------------------------------------
+['app/pom.xml', 'pdfbox/pom.xml']
+-------------------------------------------------------------------------------
+['app/pom.xml', 'pom.xml']
+-------------------------------------------------------------------------------
+['app/pom.xml', 'fontbox/pom.xml', 'parent/pom.xml']
+--------------------------------------------------------------------------------
+['app/pom.xml', 'fontbox/pom.xml', 'pdfbox/pom.xml']
+--------------------------------------------------------------------------------
+['app/pom.xml', 'fontbox/pom.xml', 'pom.xml']
+--------------------------------------------------------------------------------
+['app/pom.xml', 'fontbox/pom.xml', 'parent/pom.xml', 'pdfbox/pom.xml']
+--------------------------------------------------------------------------------
+['app/pom.xml', 'fontbox/pom.xml', 'parent/pom.xml', 'pom.xml']
+--------------------------------------------------------------------------------
+['app/pom.xml', 'fontbox/pom.xml', 'parent/pom.xml', 'pdfbox/pom.xml', 'pom.xml']
+--------------------------------------------------------------------------------
+common contributors in both project...
+0
+-----------------------------------------------------------------------------
